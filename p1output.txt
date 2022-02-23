@@ -1,1 +1,7 @@
+ gcc -g p1original.c
+ ./a.out
+enter the co-ordinates of the form x1 y1 x2 y2
+4 5 6 7
+the distance between the two points(4.000000,5.000000) and (6.000000,7.000000) is 2.828427
+ 
 
