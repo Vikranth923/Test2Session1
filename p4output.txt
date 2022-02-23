@@ -1,1 +1,18 @@
 
+ 
+ gcc -g p4original.c
+ ./a.ot
+bash: ./a.ot: No such file or directory
+ ./a.out
+enter the term u want
+5
+the 5th term of the fibonacci is 5 ./a.out
+enter the term u want
+2
+the 2th term of the fibonacci is 1 ./a.out8
+bash: ./a.out8: No such file or directory
+ ./a.out
+enter the term u want
+9
+the 9th term of the fibonacci is 34 
+
